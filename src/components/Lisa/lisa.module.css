@@ -1,0 +1,36 @@
+.button {
+    color: rgb(0, 0, 0);
+    background-color: rgba(231, 231, 231, 0.637);
+    transition: 0.5s;
+    
+    border: none;
+    border-radius: 50%;
+
+    width: 10em;
+    height: 3em;
+
+    font-family: 'Cinzel', sans-serif;
+    font-size: x-large;
+
+    cursor: pointer;
+
+    margin-top: 20em;
+  }
+
+  .button:hover {
+    background-color:  rgba(169, 35, 231);
+    color:white;
+  }
+
+.container {
+  text-align: right;
+  margin-right: 100;
+  padding: 150px 100px 0px 0px;
+}
+
+.gif {
+  border-radius: 100%;
+}
+
+
+
