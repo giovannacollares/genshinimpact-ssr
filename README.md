@@ -23,7 +23,7 @@ Atualmente rodando com:
 - [x] Next.js
 
 ## Screenshots
-<img width="90%" src="./public/screenshot.gif">
+<div><img width="90%" src="./public/screenshot.gif">
 <img width="45%" src="./public/screenshot1.gif"><img width="45%" src="./public/screenshot2.gif"><br>
-<img width="45%" src="./public/screenshot3.gif"><img width="45%" src="./public/screenshot4.gif"><br>
+<img width="45%" src="./public/screenshot3.gif"><img width="45%" src="./public/screenshot4.gif"><br></div>
 	
