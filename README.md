@@ -5,7 +5,7 @@
 
 
 
-<div align="center"> <img width="500px" src="./public/paimon.png"></div> <br>
+<div align="center"> <img width="300px" src="./public/paimon.png"></div> <br>
 
 ## Índice
 * [Sobre o projeto](#sobre-o-projeto)
